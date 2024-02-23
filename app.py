@@ -4,3 +4,6 @@ iln=input("enter the last name")
 obj=person(ifn, iln)
 obj.display()
  #test
+
+def div(a,b):
+    return int(a/b)
